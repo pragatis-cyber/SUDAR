@@ -59,5 +59,4 @@ This is a **hackathon prototype** built for SRM Kattankulathur. Path data, light
 
 ---
 
-## 👥 Team Fam.exe
-Built with care by a team of 3 for our first hackathon - Dominion.
+
