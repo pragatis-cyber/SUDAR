@@ -5,7 +5,7 @@ Sudar - Your Safer Way Home | It is a women's safety application for safe route 
 
 **A route picked for the well-lit, well-walked way - not just the shortest one.**
 
-Sudar is a women's safety web app built by **Team Fam.exe** for the Dominion hackathon. Instead of just showing the fastest route from A to B, Sudar scores every path on a campus network by *how safe* it feels to walk - and lets you choose the route that keeps you safest, not just quickest.
+Sudar is a women's safety web app. Instead of just showing the fastest route from A to B, Sudar scores every path on a campus network by *how safe* it feels to walk - and lets you choose the route that keeps you safest, not just quickest.
 
 ---
 
