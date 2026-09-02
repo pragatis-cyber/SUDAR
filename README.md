@@ -1,4 +1,4 @@
-<img width="1416" height="952" alt="image" src="https://github.com/user-attachments/assets/2afad578-3597-4274-99a7-9b10575ce873" /># SUDAR
+
 Sudar - Your Safer Way Home | It is a women's safety application for safe route suggestion — helping users choose paths that prioritize their safety over just the fastest route.
 
 # Sudar - Safer Ways Around SRM Kattankulathur
